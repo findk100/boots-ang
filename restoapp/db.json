@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "pradeep",
+      "email": "praddep@gmail.com",
+      "mobile": 11223445566,
+      "address": "pune",
+      "services": "poha"
+    },
+    {
+      "id": 6,
+      "name": "ashish",
+      "email": "keshavjha36969@gmail.com",
+      "mobile": 9997484365,
+      "address": "pune",
+      "services": "poha"
+    },
+    {
+      "id": 7,
+      "name": "prakash",
+      "email": "pk36969@gmail.com",
+      "mobile": 113654789,
+      "address": "mumbai",
+      "services": "samsoa"
+    },
+    {
+      "id": 8,
+      "name": "rohan mehra",
+      "email": "rohan@gmail.com",
+      "mobile": "996633225",
+      "address": "pune",
+      "services": "student"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
